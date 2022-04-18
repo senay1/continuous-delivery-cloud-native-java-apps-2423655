@@ -39,7 +39,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>${jarName}</finalName>
+		<finalName>hotel-webapp-application</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
